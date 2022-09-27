@@ -1,12 +1,5 @@
 #include "MazeSolver.h"
 
-/*
- *  Team Members:
- *  - Guilherme de Souza Barci
- *  - Samuel Santos Ferraz
- *  - Enzo José Stella Costa
- */
-
 int main() {
 
     // "text" -> txt file name
